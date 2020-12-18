@@ -1,0 +1,58 @@
+.bkn{
+	height:700px;
+	background-image: url(../images/bkn1-camera.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.bkn2{
+	background-color: #0e1521;
+}
+.bkn3{
+	height:400px;
+	background-image: url(../images/bkn1-camera.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.card:hover{
+	opacity: 85%;
+	transition: 0.5s;
+}
+.center{
+    padding-top: 15%;
+}
+.ori-img{
+	height:40px;
+	width: auto;
+	margin-right: 10px;
+}
+footer{
+	margin-top: 50px;
+}
+#cartes{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.prix{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.separator{
+	border : 1px rgb(204, 204, 204) solid;
+	width : 50%;
+	margin: 50px 0px 50px 0px;
+}
+#produits{
+	display: flex;
+	flex-wrap: wrap;
+}
+.vider{
+	margin-top: 30px;
+}
+.jumbo{
+	padding-top: 4%;
+}
+.margeElement{
+	margin : 45px 0px;
+}
